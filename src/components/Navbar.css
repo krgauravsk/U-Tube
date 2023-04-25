@@ -1,0 +1,11 @@
+.title{
+    color: white;
+    font-size: 26px;
+    font-weight: 700;
+    margin: 5px;
+}
+@media (max-width: 800px) {
+    .title{  
+        font-size: 0;  
+    }
+}
